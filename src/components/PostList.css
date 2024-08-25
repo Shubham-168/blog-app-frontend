@@ -1,0 +1,25 @@
+div{
+    background-color: burlywood;
+    overflow-inline:auto;
+
+
+}
+
+h2{
+    text-align: center;
+    color: brown;
+    font: sans-serif;
+}
+
+
+h3{
+    color: rgba(240, 37, 162, 0.822);
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+p{
+    color: rgb(29, 31, 29);
+}
+
+
